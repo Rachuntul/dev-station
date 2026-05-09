@@ -58,8 +58,9 @@ To get a local copy up and running, follow these simple steps.
 
 ```
 
+
 2. Navigate to a service folder
-```sh
+   ```sh
 cd core/nginx-proxy
 
 ```
