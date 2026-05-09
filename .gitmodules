@@ -1,3 +1,0 @@
-[submodule "apps/photo-converter"]
-	path = apps/photo-converter
-	url = https://github.com/Rachuntul/telegram-photo-to-webp.git
