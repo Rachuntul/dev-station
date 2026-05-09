@@ -1,4 +1,4 @@
-# 🚀 Dion's Portable Dev-Station
+# 🚀 RACHUN | Portable Dev-Station
 
 My personal daily-driver lab environment on Debian. Managed with Docker, secured with Nginx Proxy Manager.
 
