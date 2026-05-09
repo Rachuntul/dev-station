@@ -1,4 +1,4 @@
-# 🚀 Dion's Portable Dev-Station
+# 🚀 My Personal Portable Dev-Station
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Maintained-success?style=flat-square" alt="Maintained">
@@ -27,7 +27,7 @@ dev-station/
 ├── apps/       # Custom bots and dev projects
 └── monitoring/ # System health tracking (Uptime Kuma)
 
-🚀 Quick Start
+## 🚀 Quick Start
 
 Every service is containerized. To deploy a specific module:
 Bash
@@ -35,6 +35,6 @@ Bash
 cd core/nginx-proxy
 docker compose up -d
 
-☕ Support the Research
+## ☕ Support the Research
 
 If you find my projects useful or want to support my cybersecurity & development journey, feel free to buy me a coffee!
