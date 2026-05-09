@@ -1,0 +1,15 @@
+services:
+  bot-converter:
+    build: .
+    container_name: photo_converter_bot
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./temp_images:/app/temp_images
+    networks:
+      - npm_default
+
+networks:
+  npm_default:
+    external: true
