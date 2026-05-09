@@ -31,7 +31,7 @@ This repository is my personal command center. It manages essential services (DN
    ```sh
    git clone --recursive [https://github.com/Rachuntul/dev-station.git](https://github.com/Rachuntul/dev-station.git)
 
-```
+``
 
 2. Choose a service and deploy:
 ```sh
