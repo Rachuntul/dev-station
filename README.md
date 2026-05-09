@@ -28,14 +28,17 @@ This repository is my personal command center. It manages essential services (DN
 
 ### Installation
 1. Clone the repo with submodules:
-   ```sh
-   git clone --recursive [https://github.com/Rachuntul/dev-station.git](https://github.com/Rachuntul/dev-station.git)
+```sh
+
+	git clone --recursive [https://github.com/Rachuntul/dev-station.git](https://github.com/Rachuntul/dev-station.git)
+
 
 
 2. Choose a service and deploy:
 ```sh
-cd core/nginx-proxy
-docker compose up -d
+
+	cd core/nginx-proxy
+	docker compose up -d
 
 ```
 
