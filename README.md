@@ -1,4 +1,3 @@
-```markdown
 <a name="readme-top"></a>
 
 <br />
@@ -7,7 +6,7 @@
     <img src="https://img.shields.io/badge/Dev--Station-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Dion's Portable Dev-Station</h3>
+<h3 align="center">Personal Portable Dev-Station</h3>
 
   <p align="center">
     A lightweight, dockerized lab environment optimized for a Daily Driver laptop.
