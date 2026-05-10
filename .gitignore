@@ -16,3 +16,14 @@ core/nginx-proxy/letsencrypt/
 # Ignore OS junk
 .DS_Store
 Thumbs.db
+
+# Jangan push folder web Rahel
+apps/rahel-web/
+
+# Jangan push data sensitif Nginx Proxy Manager
+core/nginx-proxy/data/
+core/nginx-proxy/letsencrypt/
+
+# Jangan push file log atau cache
+*.log
+__pycache__/
