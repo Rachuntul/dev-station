@@ -30,3 +30,5 @@ __pycache__/
 
 core/adguard/confdir/
 core/adguard/workdir/
+core/adguard/confdir/
+core/adguard/workdir/
