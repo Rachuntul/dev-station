@@ -27,3 +27,6 @@ core/nginx-proxy/letsencrypt/
 # Jangan push file log atau cache
 *.log
 __pycache__/
+
+core/adguard/confdir/
+core/adguard/workdir/
